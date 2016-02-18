@@ -1,0 +1,13 @@
+{
+    "name": "dabarbe/github-handler",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1",
+        "symfony/yaml": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Davide Barbesino",
+            "email": "davide.barbesino@gmail.com"
+        }
+    ]
+}
