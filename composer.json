@@ -9,5 +9,8 @@
             "name": "Davide Barbesino",
             "email": "davide.barbesino@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": { "GithubWebHook\\": "src/GithubWebHook/" }
+    }
 }
